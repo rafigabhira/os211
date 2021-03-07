@@ -9,5 +9,12 @@ ZCZC W01 120 L05 GSGS related
 ZCZC W01 180 L21 VirtualBox: install GNU/Linux, etc.
 ZCZC W01 60 L08 Trying something
 ZCZC W01 120 L11 Assignment #1
-ZCZC W01 90 L11 Assignment #2
-ZCZC W01 100 L11 Assignment #3
+ZCZC W01 90 L12 Assignment #2
+ZCZC W01 100 L13 Assignment #3
+ZCZC W01 15 L16 Assignment #6
+ZCZC W01 60 L22 YouTube: study, etc.
+ZCZC W01 100 L17 Assignment #7
+ZCZC W01 50 L18 Assignment #8
+ZCZC W01 30 L19 Assignment #9
+
+
