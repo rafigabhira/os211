@@ -1,4 +1,4 @@
-REC2="Rafiando"
+REC2="rafigabhira22@gmail.com"
 REC1="rafigabhira22@gmail.com"
 FILES="my*.asc my*.txt my*.sh"
 SHA="SHA256SUM"
