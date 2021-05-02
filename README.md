@@ -9,3 +9,4 @@ Operating Systems 2021-1
 1. [Week 01](https://rafigabhira.github.io/os211/W01)
 2. [Week 02](https://rafigabhira.github.io/os211/W02)
 5. [Week 05](https://rafigabhira.github.io/os211/W05)
+7. [Week 07](https://rafigabhira.github.io/os211/W07)
