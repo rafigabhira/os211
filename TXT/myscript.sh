@@ -1,5 +1,5 @@
 REC2="rafigabhira22@gmail.com"
-REC1="rafigabhira22@gmail.com"
+REC1="operatingsystems@vlsm.org"
 FILES="my*.asc my*.txt my*.sh"
 SHA="SHA256SUM"
 
