@@ -54,3 +54,8 @@ ZCZC W07 30 L11 Assignment#1
 ZCZC W07 30 L12 Edit Rank
 ZCZC W07 240 L13 GSGS
 ZCZC W07 10 L15 Update log
+ZCZC W09 5 L01 SCELE related
+ZCZC W09 120 L10 Assignment
+ZCZC W09 60 L21 study, etc.
+ZCZC W09 50 L05 GSGS related
+ZCZC W09 20 L26 Movie,relax. etc
